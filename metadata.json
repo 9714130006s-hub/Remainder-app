@@ -1,0 +1,6 @@
+{
+  "name": "Bill Reminder",
+  "description": "Automated bill and utility reminder app that tracks monthly expenses, sends timely alerts before due dates, and manages payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
